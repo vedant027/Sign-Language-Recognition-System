@@ -3,11 +3,6 @@ Communication is very significant to human beings as it facilitates the spread o
 
 The purpose of this project is to recognize all the alphabets (A-Z) and digits (0-9) of Indian sign language using bag of visual words model and convert them to text/speech. Dual mode of recognition is implemented for better results. The system is tested using various machine learning classifiers like KNN, SVM, logistic regression and a convolutional neural network (CNN) is also implemented for the same. The dataset for this system is created manually in different hand orientations and a train-test ratio of 80:20 is used.
 
-#### Research Paper [Indian Sign Language recognition system using SURF with SVM and CNN](https://www.sciencedirect.com/science/article/pii/S2590005622000121?via%3Dihub#!)
-If you use this in your research, please cite: 
-
-`Shagun Katoch, Varsha Singh, Uma Shanker Tiwary, Indian Sign Language recognition system using SURF with SVM and CNN, Array, Volume 14, 2022, 100141, ISSN 2590-0056, https://doi.org/10.1016/j.array.2022.100141`.
-
 ## Getting Started
 ### Pre-requisites
 Before running this project, make sure you have following dependencies - 
